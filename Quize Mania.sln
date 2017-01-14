@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E1F3BDED-CD84-6A98-D4F4-7ECACA04183F}") = "Quize Mania", "Assembly-CSharp-firstpass.csproj", "{C6CC59FD-375C-BF39-82C1-373AAE1DFF38}"
+EndProject
+Project("{E1F3BDED-CD84-6A98-D4F4-7ECACA04183F}") = "Quize Mania", "Assembly-CSharp.csproj", "{DF90B179-1EB5-B885-0DFD-9471E3C73FE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6CC59FD-375C-BF39-82C1-373AAE1DFF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CC59FD-375C-BF39-82C1-373AAE1DFF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CC59FD-375C-BF39-82C1-373AAE1DFF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CC59FD-375C-BF39-82C1-373AAE1DFF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF90B179-1EB5-B885-0DFD-9471E3C73FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF90B179-1EB5-B885-0DFD-9471E3C73FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF90B179-1EB5-B885-0DFD-9471E3C73FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF90B179-1EB5-B885-0DFD-9471E3C73FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

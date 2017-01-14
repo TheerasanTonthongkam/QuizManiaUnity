@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ViewController/RankingViewController.cs">
+    <Files>
+      <File FileName="Assets/Script/ViewController/QuizController.cs" Line="221" Column="20" />
+      <File FileName="Assets/Script/Model/QuizList.cs" Line="6" Column="23" />
+      <File FileName="Assets/Script/Model/Quiz.cs" Line="10" Column="28" />
+      <File FileName="Assets/Script/Memory.cs" Line="14" Column="55" />
+      <File FileName="Assets/Script/GameData.cs" Line="13" Column="30" />
+      <File FileName="Assets/Script/ViewController/EndGame.cs" Line="48" Column="1" />
+      <File FileName="Assets/Script/Model/RankingSummary.cs" Line="6" Column="30" />
+      <File FileName="Assets/Script/ViewController/RankingViewController.cs" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/iTa7/Work/Quize Mania/Assets/Script/ViewController/QuizController.cs" line="60" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

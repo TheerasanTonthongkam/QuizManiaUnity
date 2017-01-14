@@ -1,0 +1,17 @@
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/iTa7/Work/Quize Mania/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/iTa7/Work/Quize Mania/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/UnityEngine.dll
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/UnityEditor.dll
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/Mono.Cecil.dll
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/Unity.DataContract.dll
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/iTa7/Work/Quize Mania/Temp/bin/Debug/Mono.Cecil.Mdb.dll
